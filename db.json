@@ -1,5 +1,4 @@
 {
-  // this is for decoding pix and billet payment
   "decode": {
     "amount": "1000.90",
     "type": "PIX",
